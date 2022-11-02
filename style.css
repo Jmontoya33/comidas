@@ -1,0 +1,24 @@
+.titulo-1{
+    color: orange;
+    background-color:rgb(99, 6, 6);
+    }
+    body{
+        background-image: url(https://img.freepik.com/foto-gratis/vegetales-puestos-izquierda-pizarra-negra_1220-685.jpg?w=1480&t=st=1667349427~exp=1667350027~hmac=292f7c534a18426214e6797ae2bf129773c48c96cee8f05de31bf00066d705df);
+        background-size: cover;
+    }
+    .button{
+        background-color: burlywood;
+    }
+    .button p{
+        color: midnightblue;
+    }
+    .Imagen-1{
+        background-image: url(https://img.freepik.com/foto-gratis/tabla-cortar-madera-rodeada-platos-pasta-e-ingredientes-mesa_23-2148246798.jpg?w=2000);
+        background-size: cover;
+}
+table{
+    color: red;
+}
+h2{
+    color: blue;
+}
